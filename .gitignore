@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+datos/
+face_landmarker.task
+modelos/svm_hog.joblib
+*.log

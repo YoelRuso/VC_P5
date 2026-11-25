@@ -1,0 +1,15 @@
+{
+  "acc_val": 0.5522838807097018,
+  "acc_test": 0.5598266440550217,
+  "f1_macro_test": 0.5451596443539538,
+  "ms_por_imagen_clasificador": 29.844563403146648,
+  "segundos_entrenamiento": 2044.8927145004272,
+  "clases": [
+    "angry",
+    "fear",
+    "happy",
+    "sad",
+    "surprise",
+    "neutral"
+  ]
+}

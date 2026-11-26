@@ -4,7 +4,7 @@
 
 ![Demo de los dos prototipos](media/demo.gif)
 
-*Espejo de emociones (CNN entrenada sobre FER2013) y Tetris facial controlado con la cara.*
+*Momentos seleccionados: Espejo de emociones (CNN entrenada sobre FER2013) y, a continuación, Tetris facial controlado con la cara (a 1,5× de velocidad).*
 
 Dos prototipos que **reaccionan a información extraída del rostro**. Ambos usan MediaPipe Face Landmarker
 (478 landmarks + 52 blendshapes) para detectar la cara y sus elementos.
